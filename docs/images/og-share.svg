@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="ogLogoGrad" x1="472" y1="158" x2="728" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D4FF00"/>
+      <stop offset="1" stop-color="#B8E034"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#1A1A1B"/>
+  <g transform="translate(600 312)">
+    <circle cx="0" cy="-14" r="132" fill="url(#ogLogoGrad)"/>
+    <!-- Symmetrical drips: left, center (longer), right -->
+    <g fill="none" stroke="url(#ogLogoGrad)" stroke-linecap="round">
+      <path stroke-width="15" d="M-54 104v58"/>
+      <path stroke-width="18" d="M0 108v76"/>
+      <path stroke-width="15" d="M54 104v58"/>
+    </g>
+    <circle cx="-54" cy="188" r="14" fill="url(#ogLogoGrad)"/>
+    <circle cx="0" cy="208" r="17" fill="url(#ogLogoGrad)"/>
+    <circle cx="54" cy="188" r="14" fill="url(#ogLogoGrad)"/>
+    <text x="0" y="16" text-anchor="middle" fill="#1A1A1B" font-family="Outfit, 'Arial Black', Arial, sans-serif" font-size="96" font-weight="800" letter-spacing="-0.05em">GL</text>
+  </g>
+</svg>
