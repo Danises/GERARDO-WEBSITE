@@ -54,12 +54,6 @@
       home_contact_email: "Email",
       home_contact_loc: "Location",
 
-      cta_banner_h2: "Need Painting or Repairs?",
-      cta_banner_p:
-        "Get a <strong>free estimate</strong> today — fast response, fair pricing.",
-      cta_call_btn: "Call (845) 570-1512",
-      cta_msg_btn: "Send a message",
-
       footer_line:
         "<strong>GL Handy Painter</strong> · Gerardo Landeros · Danbury, CT",
       footer_insta: "Instagram @GLPainter1",
@@ -265,12 +259,6 @@
       home_contact_email: "Correo",
       home_contact_loc: "Ubicación",
 
-      cta_banner_h2: "¿Pintura o remodelaciones?",
-      cta_banner_p:
-        "Obtenga un <strong>estimado gratis</strong> hoy — respuesta ágil y precios justos.",
-      cta_call_btn: "Llamar (845) 570-1512",
-      cta_msg_btn: "Enviar mensaje",
-
       footer_line:
         "<strong>GL Handy Painter</strong> · Gerardo Landeros · Danbury, CT",
       footer_insta: "Instagram @GLPainter1",
@@ -473,12 +461,6 @@
       home_contact_phone: "Telefone",
       home_contact_email: "E-mail",
       home_contact_loc: "Local",
-
-      cta_banner_h2: "Precisa de pintura ou reparos?",
-      cta_banner_p:
-        "Peça um <strong>orçamento grátis</strong> hoje — resposta rápida e preço justo.",
-      cta_call_btn: "Ligar (845) 570-1512",
-      cta_msg_btn: "Enviar mensagem",
 
       footer_line:
         "<strong>GL Handy Painter</strong> · Gerardo Landeros · Danbury, CT",
